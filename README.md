@@ -1,4 +1,3 @@
-
 # WebReader - Text-to-Speech Chrome Extension 🎙️  
 
 **WebReader** is a simple yet powerful Chrome extension that allows users to highlight text on any webpage and listen to it using text-to-speech (TTS) technology.  
@@ -74,3 +73,4 @@ Want to contribute? Feel free to:
 ---
 
 Made with ❤️ by Aashna Jain  
+
