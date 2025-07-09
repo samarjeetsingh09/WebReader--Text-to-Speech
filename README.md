@@ -14,7 +14,7 @@
 1. **Download the WebReader Source Code**  
    - Clone the repository:  
      ```sh
-     git clone https://github.com/Aashna06Jain/WebReader.git
+     git clone https://github.com/samarjeetsingh09/WebReader--Text-to-Speech.git
      cd WebReader
      ```  
 2. **Load the Extension in Chrome**  
@@ -70,7 +70,4 @@ Want to contribute? Feel free to:
 - 🛠️ **Report bugs & request features** via issues  
 - 🚀 **Fork the repo & submit PRs** for improvements  
 
----
-
-Made with ❤️ by Aashna Jain  
 
